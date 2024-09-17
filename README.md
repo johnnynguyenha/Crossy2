@@ -30,7 +30,7 @@ Unreal Engine 5 (latest version)
 A machine with  specs to handle Unreal Engine 5's requirements  
 
 # Play the Game
-Load the project into your Unreal Engine 5 editor. 
+Load the project into your Unreal Engine 5 editor and run the game.
 
 # Controls
 W/Up Arrow: Move Forward  
