@@ -1,4 +1,6 @@
 # Crossy Road Recreation in Unreal Engine 5
+Author: Johnny Nguyen  
+Email: johnny.nguyenha@gmail.com or johnnynguyenha@csu.fullerton.edu  
 Welcome to the Crossy Road Recreation project built using Unreal Engine 5. This project is a remake of the popular arcade game Crossy Road, where the player guides a character through busy streets, rivers, and train tracks while avoiding obstacles. The goal is to move forward as far as possible without getting hit or falling into the water. The project is yet to be finished, however it has a good base.
 
 # Features
