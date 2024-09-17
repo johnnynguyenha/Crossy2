@@ -25,9 +25,6 @@ Game Over & Restart: The game ends when the player is hit by a vehicle, falls in
 ✓ Eagle swoops in and kills chicken if you don't move  
 ✓ Water splashes when chicken jumps in, chicken dies  
 
-# Installation
-To run this project on your local machine, follow the steps below:
-
 # Prerequisites
 Unreal Engine 5 (latest version)  
 A machine with  specs to handle Unreal Engine 5's requirements  
