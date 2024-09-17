@@ -13,16 +13,17 @@ Game Over & Restart: The game ends when the player is hit by a vehicle, falls in
 # Checklist
 ✓ HUD  
 ✓ Chicken looks in direction it is moving  
-✓ Dynamically created grassy strips with random trees/rocks. Trees block side of game
-✓ Dynamically created and deleted cars, trucks, trains, logs
-✓ Dynamically created railroad tracks, populated with trains, RR crossing lights up when train is coming
-✓ Dynamically created river lanes, populated with logs and lily pads
-✓ Chicken cannot move into trees, rocks
-✓ Running into cars/trucks causes chicken to be flattened
-✓ Dynamic generation of coins
-✓ Sounds
-✓ Eagle swoops in and kills chicken if you don't move
-✓ Water splashes when chicken jumps in, chicken dies
+✓ Dynamically created grassy strips with random trees/rocks. Trees block side of game  
+✓ Dynamically created and deleted cars, trucks, trains, logs  
+✓ Dynamically created railroad tracks, populated with trains, RR crossing lights up when train is coming  
+✓ Dynamically created river lanes, populated with logs and lily pads  
+✓ Chicken cannot move into trees, rocks  
+✓ Running into cars/trucks causes chicken to be flattened  
+✓ Dynamic generation of coins  
+✓ Sounds  
+✓ Multiple languages for train crossing
+✓ Eagle swoops in and kills chicken if you don't move  
+✓ Water splashes when chicken jumps in, chicken dies  
 
 # Installation
 To run this project on your local machine, follow the steps below:
