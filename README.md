@@ -7,13 +7,13 @@ Welcome to the Crossy Road Recreation project built using Unreal Engine 5. Unrea
 https://www.youtube.com/watch?v=Q802AWHy9-c
 
 # Features
-Player Movement: Character moves forward, backward, left, right, and jump using keyboard input.  
-Dynamic Obstacles: Vehicles, trains, and other obstacles move along paths.  
-Randomized Environment: The level is constantly being generated in front of you as you play the game.  
-Score System: A scoring system that tracks how far the player has traveled and awards points based on progression.  
-High-Quality Visuals: Utilizes Unreal Engine 5’s advanced lighting and rendering features to deliver high-quality visuals.  
-Audio and Effects: Custom sound effects for player actions and environmental elements (vehicles, trains, water splash).  
-Game Over & Restart: The game ends when the player is hit by a vehicle, falls into the water, or doesn't move fast enough.  
+- Player Movement: Character moves forward, backward, left, right, and jump using keyboard input.  
+- Dynamic Obstacles: Vehicles, trains, and other obstacles move along paths.  
+- Randomized Environment: The level is constantly being generated in front of you as you play the game.  
+- Score System: A scoring system that tracks how far the player has traveled and awards points based on progression.  
+- High-Quality Visuals: Utilizes Unreal Engine 5’s advanced lighting and rendering features to deliver high-quality visuals.  
+- Audio and Effects: Custom sound effects for player actions and environmental elements (vehicles, trains, water splash).  
+- Game Over & Restart: The game ends when the player is hit by a vehicle, falls into the water, or doesn't move fast enough.  
 
 # Checklist
 ✓ HUD  
