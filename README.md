@@ -26,7 +26,7 @@ https://www.youtube.com/watch?v=Q802AWHy9-c
 ✓ Running into cars/trucks causes chicken to be flattened  
 ✓ Dynamic generation of coins  
 ✓ Sounds  
-✓ Multiple languages for train crossing
+✓ Multiple languages for train crossing  
 ✓ Eagle swoops in and kills chicken if you don't move  
 ✓ Water splashes when chicken jumps in, chicken dies  
 
